@@ -1,0 +1,46 @@
+#include<iostream>
+#include<graphics.h>
+#include<math.h>
+#include<conio.h>
+#include<dos.h>
+#include<std.lib.h>
+
+class animation
+{
+	public:
+	float x,y,j,count;
+	float r;
+	int xl,yl,z;
+	void ball(float i);
+	
+};
+void animation ::ball(float i)
+{
+	for (int k=0;k<=7;kk++)
+	{
+	for (i=90;i<270;i+=10)
+	{
+	y=cos(((i*22/7)/180))/j;
+	if(y>0)
+		y=y-1;
+	setcolor(14);
+	setfillstyle(1,14);
+	circle(x=300,y*100+200,r=30);
+    floodfill(x=300,y*100+200,0);
+		  
+	}
+	j+=count;
+	count=count+0.1;
+	
+	}
+}
+void main()
+{
+	int gd=DETECT,gm;
+	initgraph(&gd,&gm,"c://turbo3//bgi");
+	int a,a1,a2;
+	cout<<"Animation of bouncing ball"<<endl;
+	animation p1;
+	p1.ball(a1);
+	
+}
