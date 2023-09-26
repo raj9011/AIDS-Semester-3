@@ -8,9 +8,9 @@
   
 I have studied 5 Courses during 3rd Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati. 
 
-Also implemented Laboratory Assignments of the same
+Also implemented Laboratory Assignments of the same .
 # 210241-Discrete Mathematics 
-- Set theory , types of set and propositional logic .
+-  Set theory , types of set and propositional logic .
 -  Relation which consist of finding closure , equivivalence , partial ordering .
 -  Function and its types .   
 -  Counting Principles  like Permutation and Combination .
@@ -29,7 +29,7 @@ Also implemented Laboratory Assignments of the same
 - Introduction to OOP , basic understanding of data structures and Object Oriented Programming .
 - Starting with Data types , structures , loops, arrays , strings, classes and objects and functions .
 - 4 Pillars of OOP Data Abstraction , Encapsulation , Inheritance and Polymorphism .
-- Files and Streams  , Exception Handling , Templates and Standard Template Library .
+- Files and Streams , Exception Handling , Templates and Standard Template Library .
       
 
 # 210244-Computer Graphics  
@@ -40,7 +40,7 @@ Also implemented Laboratory Assignments of the same
 - Application of Computer Graphics in industry .
 
 # 217521-Operating System
-- Fundamentals of OS , types of OS , System services , System calls  , Bash Scripting .
+- Fundamentals of OS , types of OS , System services , System calls , Bash Scripting .
 - Process Management which consist of process sheduling and threading .
 - Synchronization which consist of principles of concurrency , mutual exclusion, classical synchronization problems, Deadlock handling , prevention , avoidance , detection , recovery .
 - Memory Management , I/O Management , File Management and Linux O.S .
