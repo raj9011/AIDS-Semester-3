@@ -18,7 +18,7 @@ Also implemented Laboratory Assignments of the same
 -  Trees like Minimum spanning tree , Kruskal and Prims Algorithm Transport flow network . 
 
 # 210242-Fundamentals of Data Sructures
--  Introduction to Data Structures and Algorithms 
+-  Introduction to Data Structures and Algorithms .
 -  Linear Data Structures  how they allocate memory in physical storage of machine, basically studied different types of arrays , Matrix 
    implementation in c++ .
 -  Searching and Sorting Techniques various algorithms divide and conquer , greedy .
