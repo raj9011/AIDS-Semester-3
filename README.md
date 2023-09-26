@@ -1,12 +1,14 @@
 # Artificial Intelligence and Data Science
 # Second Year- VPKBIET
-`Semester:` 3<sup>rd</sup> Semester  
-`Session:` June 2021 - February 2022   
+`Semester:` 3<sup>rd</sup> Sem
+
+`Session:` June 2021 - February 2022 
+
 `Mode:` Online :wink::sweat_smile:  
 
 
   
-I have studied 5 Courses during 3rd Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati. 
+I have studied 5 Courses during 3rd Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati . 
 
 Also implemented Laboratory Assignments of the same .
 # 210241-Discrete Mathematics 
