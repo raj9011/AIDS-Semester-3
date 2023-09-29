@@ -72,7 +72,8 @@ Also implemented Laboratory Assignments of the same .
 - Fundamentals of OS , types of OS , System services , System calls , Bash Scripting .
 - Process Management which consist of process sheduling and threading .
 - Synchronization which consist of principles of concurrency , mutual exclusion, classical synchronization problems, Deadlock handling , prevention , avoidance , detection , recovery .
-- Memory Management , I/O Management , File Management and Linux O.S .
+- Memory Management , I/O Management , File Management , Disk Sheduling .
+- Linux Operating System , Overview , Interfaces , Shell , Processes , System Calls , Threads , Process Sheduling and Booting .
 
 These are some concepts that I studied during third semester of my engineering!  
 Cheers!  
