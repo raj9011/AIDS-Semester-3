@@ -7,10 +7,37 @@
 `Mode:` Online :wink::sweat_smile:  
 
 
+Courses that I have studied during Sophomore of my engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati.
+
+# ODD Semester
+
+
+## Semester - 03  
+>> Subject Code | Subject Name | Course Instructor
+>> --- | --- | ---
+>> 210241 | Discrete Mathematics | Prof. Rajkumar Panchal
+>> 210242 | Fundamentals of Data Sructures | Prof. Digambar Padulkar
+>> 210243 | Object Oriented Programming | Prof. Sahil Shah
+>> 210244 | Computer Graphics | Prof. Rajkumar Panchal
+>> 217521 | Operating System | Prof. Dinesh Zende
+>> 217522 | Data Structures Laboratory | Prof. Digambar Padulkar
+>> 217523 | OOP & CG Laboratory | Prof. Rajkumar Panchal &  Prof. Sahil Shah
+>> 217524 | Operating Systems Laboratory | Prof. Dinesh Zende
+>> 217525 | Business Communication Skills | Dr. Anil Patil
+>> 217526 | Humanity and Social Science | Dr. Anil Patil 
+>> 217527 | Smart Cities | Prof. Sahil Shah
+
+
+
+
+
   
 I have studied 5 Courses during 3rd Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati . 
 
 Also implemented Laboratory Assignments of the same .
+
+
+
 # 210241-Discrete Mathematics 
 -  Set theory , types of set and propositional logic .
 -  Relation which consist of finding closure , equivivalence , partial ordering .
