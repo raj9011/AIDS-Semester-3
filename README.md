@@ -32,9 +32,9 @@ Courses that I have studied during Sophomore of my engineering offered by the De
 
 
   
-I have studied 5 Courses during 3rd Semester of engineering offered by Department of Artificial Intelligence and Data Science, VPKBIET Baramati . 
+I have studied 5 Courses during 3rd Semester of engineering offered by the Department of Artificial Intelligence and Data Science, VPKBIET Baramati . 
 
-Also implemented Laboratory Assignments of the same . I have obtained 22 Credits in all and scored SGPA of 8.05 during Semester .
+Also implemented Laboratory Assignments of the same . I have obtained 22 Credits in all and scored SGPA of 8.05 during Semester Examination .
 
 
 
