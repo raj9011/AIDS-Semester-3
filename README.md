@@ -30,6 +30,12 @@ Courses that I have studied during Sophomore of my engineering offered by the De
 
 
 
+##   Presentation 
+>>   Activity | Organization | Domain | Repository
+>>   --- | --- | --- | ---
+>>   Spoken Tutorial| IIT Bombay | Python | [Link]()
+>>   Spokent Tutorial | IIT Bombay | CPP| [Link]()
+
 
 
   
