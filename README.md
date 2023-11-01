@@ -51,28 +51,43 @@ Also implemented Laboratory Assignments of the same . I have obtained 22 Credits
 CO1 : Formulate problems precisely, solve the problems, apply formal proof techniques, and
 explain the reasoning clearly.
 
--  Set theory , types of set and propositional logic .
+-  Introduction and significance of Discrete Mathematics, Sets– Naïve Set Theory (Cantorian Set
+Theory), Axiomatic Set Theory, Set Operations, Cardinality of set, Principle of inclusion and
+exclusion.
+
+- Types of Sets – Bounded and Unbounded Sets, Diagonalization Argument, Countable and
+Uncountable Sets, Finite and Infinite Sets, Countably Infinite and Uncountably Infinite Sets, Power set .
+
+- Propositional Logic- logic, Propositional Equivalences, Application of Propositional Logic-Translating English Sentences, Proof by Mathematical Induction and Strong Mathematical Induction.
 
 CO2 : Apply appropriate mathematical concepts and skills to solve problems in both familiar and unfamiliar situations including those in real-life contexts.
--  Relation which consist of finding closure , equivivalence , partial ordering .
--  Function and its types .
 
-  CO3:Design and analyze real world engineering problems by applying set theory, propositional
-logic and to construct proofs using mathematical induction.
--  
- CO4:Specify, manipulate and apply equivalence relations; construct and use functions and apply
-these concepts to solve new problems.
+-  Relations and their Properties, n-ary relations and their applications, Representing relations, Closures
+of relations, Equivalence relations, Partial orderings, Partitions, Hasse diagram, Lattices, Chains and
+Anti-Chains, Transitive closure and Warshall‘s algorithm.
 
-CO5:Calculate numbers of possible outcomes using permutations and combinations; to model and
+- Functions- Surjective, Injective and
+Bijective functions, Identity function, Partial function, Invertible function, Constant function, Inverse
+functions and Compositions of functions, The Pigeonhole Principle.
+
+CO3 : Design and analyze real world engineering problems by applying set theory, propositional logic and to construct proofs using mathematical induction.
+
+- The Basics of Counting, rule of Sum and Product, Permutations and Combinations, Binomial
+Coefficients and Identities, Generalized Permutations and Combinations, Algorithms for generating Permutations and Combinations.
+
+ CO4 : Specify, manipulate and apply equivalence relations; construct and use functions and apply these concepts to solve new problems.
+
+- Graph Terminology and Special Types of Graphs, Representing Graphs and Graph Isomorphism,
+Connectivity, Euler and Hamilton Paths, the handshaking lemma, Single source shortest path-Dijkstra's Algorithm, Planar Graphs, Graph Colouring.
+
+CO5 : Calculate numbers of possible outcomes using permutations and combinations; to model and
 analyze computational processes using combinatorics.
 
-CO6:Model and solve computing problem using tree and graph and solve problems using
-appropriate algorithms.
 
-CO7:Analyze the properties of binary operations, apply abstract algebra in coding theory and
+
+CO6 : Analyze the properties of binary operations, apply abstract algebra in coding theory and
 evaluate the algebraic structures.
--  Graph Theory consisting of Eulers Theorem , Hamiltonian Circuit, Dijkstras Algorithm , Planar Graphs , Graph Colouring .   
--  Trees like Minimum spanning tree , Kruskal and Prims Algorithm Transport flow network . 
+-  Graph Theory consisting of Eulers Theorem , Hamiltonian Circuit, Dijkstras Algorithm , Planar Graphs , Graph Colouring . Trees like Minimum spanning tree , Kruskal and Prims Algorithm Transport flow network . 
 
 # 210242-Fundamentals of Data Sructures
 -  Introduction to Data Structures and Algorithms .
