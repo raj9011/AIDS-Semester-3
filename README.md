@@ -45,11 +45,32 @@ Also implemented Laboratory Assignments of the same . I have obtained 22 Credits
 
 
 
+
 # 210241-Discrete Mathematics 
+
+CO1 : Formulate problems precisely, solve the problems, apply formal proof techniques, and
+explain the reasoning clearly.
+
 -  Set theory , types of set and propositional logic .
+
+CO2 : Apply appropriate mathematical concepts and skills to solve problems in both familiar and unfamiliar situations including those in real-life contexts.
 -  Relation which consist of finding closure , equivivalence , partial ordering .
--  Function and its types .   
--  Counting Principles  like Permutation and Combination .
+-  Function and its types .
+
+  CO3:Design and analyze real world engineering problems by applying set theory, propositional
+logic and to construct proofs using mathematical induction.
+-  
+ CO4:Specify, manipulate and apply equivalence relations; construct and use functions and apply
+these concepts to solve new problems.
+
+CO5:Calculate numbers of possible outcomes using permutations and combinations; to model and
+analyze computational processes using combinatorics.
+
+CO6:Model and solve computing problem using tree and graph and solve problems using
+appropriate algorithms.
+
+CO7:Analyze the properties of binary operations, apply abstract algebra in coding theory and
+evaluate the algebraic structures.
 -  Graph Theory consisting of Eulers Theorem , Hamiltonian Circuit, Dijkstras Algorithm , Planar Graphs , Graph Colouring .   
 -  Trees like Minimum spanning tree , Kruskal and Prims Algorithm Transport flow network . 
 
