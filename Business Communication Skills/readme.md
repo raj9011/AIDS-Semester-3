@@ -20,6 +20,6 @@
 ## Prepare Strong Resume and Cover Letter
 ![Logo](https://github.com/yashraj9011/AIDS-Semester-3/blob/master/Business%20Communication%20Skills/Web%20capture_16-10-2023_184933_.jpeg)
 
-##  Learn corporate Telephone Etiquette
+##  Learn corporate Telephone Etiquette.
 ![Logo](https://github.com/yashraj9011/AIDS-Semester-3/blob/master/Business%20Communication%20Skills/Web%20capture_16-10-2023_18506_.jpeg)
 
