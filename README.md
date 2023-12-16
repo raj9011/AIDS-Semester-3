@@ -92,18 +92,75 @@ Connectivity, Euler and Hamilton Paths, the handshaking lemma, Single source sho
       
 
 # 210244-Computer Graphics  
-- Basic concepts of Computer Graphics .
-- Polygon , Windowing and Clipping and various algorithms . 
-- Transformations and Projections .
-- Color models , Illumination models and Shading Algorithms . 
-- Application of Computer Graphics in industry .
+- Introduction, graphics primitives - pixel, resolution, aspect ratio, frame buffer. Display devices, applications of computer graphics.
+  Introduction to OpenGL - OpenGL architecture, primitives and attributes, simple modelling and
+  rendering of two- and three-dimensional geometric objects, GLUT, interaction .
+  Scan conversion: Line drawing algorithms: Digital Differential Analyzer (DDA), Bresenham. Circle
+  drawing algorithms: DDA, Bresenham, and Midpoint
+
+- Polygons: Introduction to polygon, types: convex, concave and complex.
+  Polygon Filling: flood fill, seed fill, scan line fill.
+  Windowing and clipping: viewing transformations, 2-D clipping: Cohen – Sutherland algorithm line
+  Clipping algorithm, Sutherland Hodgeman Polygon clipping algorithm, Weiler Atherton Polygon
+  Clipping algorithm.
+
+- 2-D transformations: introduction, homogeneous coordinates, 2-D transformations - Translation,
+scaling, rotation and shear, rotation about an arbitrary point.
+3-D transformations: introduction, 3-D transformations - Translation, scaling, rotation and shear,
+rotation about an arbitrary axis.
+Projections : Parallel (Oblique: Cavalier, Cabinet and orthographic: isometric, diametric, trimetric) and
+Perspective
+
+- Colour models: Properties of Light, CIE chromaticity Diagram, RGB, HSV, CMY.
+Illumination Models: Ambient Light, Diffuse reflection, Specular Reflection, and the Phong model,
+Combined diffuse and Specular reflections with multiple light sources, warn model,
+Shading Algorithms: Halftone, Gauraud and Phong Shading.
+Hidden Surfaces Introduction, Back face detection and removal, Algorithms: Depth buffer (z), Depth
+sorts , Area subdivision
+
+- Curves: Introduction, Interpolation and Approximation, Blending function, B-Spline curve, Bezier
+curve,
+Fractals: Introduction, Classification, Fractal generation: snowflake, Triadic curve, Hilbert curve,
+Applications.
+
+- Segment: Introduction, Segment table, Segment creation, closing, deleting and renaming, Visibility.
+Animation: Introduction, Conventional and computer based animation, Design of animation sequences,
+Animation languages, Key- frame, Morphing, Motion specification.
+Gaming: Introduction, Gaming platform (NVIDIA, i8060), Advances in Gaming
+
 
 # 217521-Operating System
-- Fundamentals of OS , types of OS , System services , System calls , Bash Scripting .
-- Process Management which consist of process sheduling and threading .
-- Synchronization which consist of principles of concurrency , mutual exclusion, classical synchronization problems, Deadlock handling , prevention , avoidance , detection , recovery .
-- Memory Management , I/O Management , File Management , Disk Sheduling .
-- Linux Operating System , Overview , Interfaces , Shell , Processes , System Calls , Threads , Process Sheduling and Booting .
+
+- Operating system functions and characteristics, historical evolution of operating systems, issues in
+operating system design, User's view of the OS, Types of OS: Batch, time sharing, multiprogramming,
+distributed, network and real-time systems, Operating-System Services, Types of System Calls,
+System Programs. BASH Shell scripting: Basic shell commands, shell as a scripting language
+
+- Process concept, Process Control Block(PCB), Process Operations, Process Scheduling: Types of
+process schedulers, Types of scheduling: Preemptive, Non preemptive. Scheduling algorithms:
+FCFS, SJF, RR, Priority, Inter process Communication(IPC). Threads: multithreaded model,
+implicit threads, threading issues
+
+- Synchronization: Principles of Concurrency, Requirements for Mutual Exclusion, Mutual
+Exclusion: Hardware Support, Operating System Support, Programming
+Language Support .Classical synchronization problems:Readers/Writers Problem,
+Producer and Consumer problem, Inter-process communication 
+Deadlock: Deadlock Characterization, Methods for Handling Deadlocks, Deadlock Prevention,
+Deadlock Avoidance, Deadlock Detection, Recovery from Deadlock
+
+- Memory Management: Memory Management Requirements, Memory Partitioning: Fixed Partitioning,
+Dynamic Partitioning, Buddy System, Relocation, Paging, Segmentation. Virtual Memory: Hardware
+and Control Structures, Operating System Software
+
+- I/O Management: I/O Devices, Organization of I/O function, I/O Buffering, Disk SchedulingDisk
+Scheduling policies like FIFO, LIFO, STTF, SCAN, C-SCAN.
+File Management: Concept, Access methods, Directory Structure, Protection, File System
+implementation, Directory Implementation, Allocation methods, Free Space management
+
+- History Of Unix and Linux , Overview Of Linux - Linux Goals, Interfaces to Linux, The Shell, Linux Utility
+Programs, Kernel structure, Processes in Linux – Process management system calls in Linux, Implementation of
+process and threads in Linux, Process scheduling Linux, Booting 
+
 
 These are some concepts that I studied during third semester of my engineering!  
 Cheers!  
