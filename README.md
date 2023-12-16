@@ -85,11 +85,46 @@ Connectivity, Euler and Hamilton Paths, the handshaking lemma, Single source sho
 
 
 # 210243-Object Oriented Programming
-- Introduction to OOP , basic understanding of data structures and Object Oriented Programming .
-- Starting with Data types , structures , loops, arrays , strings, classes and objects and functions .
-- 4 Pillars of OOP Data Abstraction , Encapsulation , Inheritance and Polymorphism .
-- Files and Streams , Exception Handling , Templates and Standard Template Library .
-      
+- Introduction to object-oriented programming, Need of object-oriented programming, Fundamentals
+of object-oriented programming: Namespaces, objects, classes, data members, methods, messages,
+data encapsulation, data abstraction and information hiding, inheritance, polymorphism
+- C++ Programming- C++ programming Basics, Data Types, Structures, Enumerations, control
+structures, Arrays and Strings, Class, Object, class and data abstraction, Access specifiers, separating
+interface from implementation. Functions- Function, function prototype, accessing function and utility
+function, Constructors and destructor, Types of constructor, Objects and Memory requirements, Static
+members: variable and functions, inline function, friend function.
+
+- Inheritance- Base Class and derived Class, protected members, relationship between base Class and
+derived Class, Constructor and destructor in Derived Class, Overriding Member Functions, Class
+Hierarchies, Public and Private Inheritance, Types of Inheritance, Ambiguity in Multiple Inheritance .
+
+- Pointers: declaring and initializing pointers, indirection Operators, Memory Management: new and
+delete, Pointers to Objects, this pointer, Pointers Vs Arrays, accessing Arrays using pointers, Arrays of
+Pointers, Function pointers, Pointers to Pointers, Pointers to Derived classes, Passing pointers to
+functions, Return pointers from functions, Null pointer, void pointer.
+
+- Polymorphism- Introduction to Polymorphism, Types of Polymorphism, Operator Overloading-
+concept of overloading, operator overloading, Overloading Unary Operators, Overloading Binary
+Operators, Data Conversion, Type casting (implicit and explicit), Pitfalls of Operator Overloading and
+Conversion, Keywords explicit and mutable.
+Function overloading, Run Time Polymorphism- Pointers to Base class, virtual function and its
+significance in C++, pure virtual function and virtual table, virtual destructor, abstract base class.
+
+- Data hierarchy, Stream and files, Stream Classes, Stream Errors, Disk File I/O with Streams, File
+Pointers, and Error Handling in File I/O, File I/O with Member Functions, Overloading the Extraction
+and Insertion Operators, memory as a Stream Object, Command-Line Arguments, Printer output
+
+- Exception Handling- Fundamentals, other error handling techniques, simple exception handling , Multiple catching, re-throwing an exception, exception specifications, user defined
+exceptions, processing unexpected exceptions, constructor, destructor and exception handling,
+exception and inheritance. Templates- The Power of Templates, Function template, overloading
+Function templates, and class template, class template and Nontype parameters, template and friends
+Generic Functions, The type name and export keywords.
+
+- Introduction to STL, STL Components, Containers- Sequence container and associative containers,
+container adapters, Application of Container classes: vector, list,
+Algorithms- basic searching and sorting algorithms, min-max algorithm, set operations, heap sort,
+Iterators- input, output, forward, bidirectional and random access. Object Oriented Programming – a
+road map to future.
 
 # 210244-Computer Graphics  
 - Introduction, graphics primitives - pixel, resolution, aspect ratio, frame buffer. Display devices, applications of computer graphics.
