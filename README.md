@@ -77,11 +77,51 @@ Connectivity, Euler and Hamilton Paths, the handshaking lemma, Single source sho
 -  Graph Theory consisting of Eulers Theorem , Hamiltonian Circuit, Dijkstras Algorithm , Planar Graphs , Graph Colouring . Trees like Minimum spanning tree , Kruskal and Prims Algorithm Transport flow network . 
 
 # 210242-Fundamentals of Data Sructures
--  Introduction to Data Structures and Algorithms .
--  Linear Data Structures  how they allocate memory in physical storage of machine, basically studied different types of arrays , Matrix 
-   implementation in c++ .
--  Searching and Sorting Techniques various algorithms divide and conquer , greedy .
--  Non Linear Data Structures  Linked List , Trees , Stacks and Queues in detail  with implementation in c++ .
+-  Introduction: From Problem to Program (Problem, Solution, Algorithm, Data Structure and Program).
+Data Structures: Data, Information, Knowledge, and Data structure, Abstract Data Types (ADT), Data
+Structure Classification (Linear and Non-linear).
+Algorithms: Problem Solving, Introduction to algorithm, Characteristics of algorithm, Algorithm
+design tools: Pseudo-code and flowchart. Complexity of algorithm: Space complexity, Time
+complexity, Asymptotic notation- Big-O, Theta and Omega, finding complexity using step count
+method, Analysis of programming constructs-Linear, Quadratic, Cubic, Logarithmic. Algorithmic
+Strategies: Introduction to algorithm design strategies- Divide and Conquer, and Greedy strategy.
+
+- Concept of Sequential Organization, Overview of Array, Array as an Abstract Data Type, Operations
+on Array, Merging of two arrays, Storage Representation and their Address Calculation: Row major
+and Column Major, Multidimensional Arrays: Two-dimensional arrays, n-dimensional arrays. Concept
+of Ordered List, Single Variable Polynomial: Representation using arrays, Polynomial as array of
+structure, Polynomial addition, Polynomial multiplication.
+Sparse Matrix: Sparse matrix representation using array, Sparse matrix addition, Transpose of sparse matrix- Simple and Fast
+Transpose, Time and Space tradeoff
+
+- Searching: Search Techniques-Sequential Search/Linear Search, Variant of Sequential Search-
+Sentinel Search, Binary Search, Fibonacci Search, and Indexed Sequential Search.
+Sorting: Types of Sorting-Internal and External Sorting, General Sort Concepts-Sort Order, Stability,
+Efficiency, and Number of Passes, Comparison Based Sorting Methods-Bubble Sort, Insertion Sort,
+Selection Sort, Quick Sort, Shell Sort,
+Non-comparison Based Sorting Methods-Radix Sort, Counting Sort, and Bucket Sort, Comparison of
+All Sorting Methods and their complexities
+
+- Introduction to Static and Dynamic Memory Allocation,
+Linked List: Introduction, of Linked Lists, Realization of linked list using dynamic memory
+management,operations, Linked List as ADT, Types of Linked List: singly linked, linear and
+Circular Linked Lists, Doubly Linked List, Doubly Circular Linked List, Primitive Operations on
+Linked List-Create, Traverse, Search, Insert, Delete, Sort, Concatenate. Polynomial Manipulations-
+Polynomial addition. Generalized Linked List concept, Representation of Polynomial using
+GLL
+
+- Basic concept, stack Abstract Data Type, Representation of Stacks Using Sequential Organization,
+stack operations, Multiple Stacks,
+Applications of Stack- Expression Evaluation and Conversion, Polish notation and expression
+conversion, Need for prefix and postfix expressions, Postfix expression evaluation, Linked Stack and
+Operations.
+Recursion- concept, variants of recursion- direct, indirect, tail and tree, backtracking algorithmic
+strategy, use of stack in backtracking.
+
+- Basic concept, Queue as Abstract Data Type, Representation of Queue using Sequential
+organization,Queue Operations, Circular Queue and its advantages, Multi-queues,Linked Queue and
+Operations. Deque-Basic concept, types (Input restricted and Output restricted), Priority Queue- Basic
+concept, types (Ascending and Descending)
 
 
 # 210243-Object Oriented Programming
