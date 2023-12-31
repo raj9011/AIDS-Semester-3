@@ -1,3 +1,3 @@
-# OOP Laboratory Assignments
+# Object Oriented Programming Laboratory Assignments
 
-## I have implemented total 9 assignments where I used concepts of polymorphism , Data Abstraction , Operator Overloading
+## I have implemented total 9 assignments where I used concepts of polymorphism , Data Abstraction , Operator Overloading .
